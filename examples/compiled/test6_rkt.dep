@@ -1,0 +1,1 @@
+("7.5" racket ("393f2b20d0de2f1dbc19e4b5f09f8314efe82695" . "17f247d6dc160a4c7ca56837c4194e0a38d38080") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"typed-peg" #"parser.rkt") (collects #"typed-peg" #"pretty.rkt") (collects #"typed-peg" #"tree.rkt") (collects #"typed-peg" #"untyped.rkt"))
